@@ -1,0 +1,4 @@
+org/gradle/demo/HelloServletFunctionalTest.java
+ org.gradle.demo.HelloServletFunctionalTest
+org/gradle/demo/HelloServlet.java
+ org.gradle.demo.HelloServlet

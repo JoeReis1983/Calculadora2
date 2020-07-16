@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ex_01.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-10T12:26:50" hostname="SAMCRO" time="0.003">
+  <properties/>
+  <testcase name="testAppHasAGreeting" classname="ex_01.AppTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
