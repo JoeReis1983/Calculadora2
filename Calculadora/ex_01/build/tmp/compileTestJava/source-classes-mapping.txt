@@ -1,2 +1,0 @@
-ex_01/AppTest.java
- ex_01.AppTest
